@@ -3,8 +3,10 @@ In the recent times, the requirement for better and advanced healthcare faciliti
 
 This is our Solution for Data Science and AI track. A web app that helps in diagnosing whether a person has Brain Tumor or not a person has brain tumor by taking the MRI scan as the input from the user.
 
-# Abouut the Dataset
-The data set was taken from Kaggle which contains two folders, one is for training and the other is for testing. It has 3 types of Brain Tumor - Glioma, Meningioma and pituitary along with images of patients with no tumor.
+# About the Dataset
+The data set was taken from Kaggle which contains two folders, one is for training and the other is for testing. It has 3 types of Brain Tumor - Glioma, Meningioma and pituitary along with images of patients with no tumor. <br>
+
+<img src="https://github.com/AM1CODES/HackOff---Brain-Tumor-Detection-Web-app/blob/main/Some%20Results/Tumor.png" alt="drawing"/>
 
 
 # Goal and Idea

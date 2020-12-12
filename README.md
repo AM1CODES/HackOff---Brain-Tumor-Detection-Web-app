@@ -3,10 +3,15 @@ In the recent times, the requirement for better and advanced healthcare faciliti
 
 This is our Solution for Data Science and AI track. A web app that helps in diagnosing whether a person has Brain Tumor or not a person has brain tumor by taking the MRI scan as the input from the user.
 
+# Tools Used
+<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+
 # About the Dataset
 The data set was taken from Kaggle which contains two folders, one is for training and the other is for testing. It has 3 types of Brain Tumor - Glioma, Meningioma and pituitary along with images of patients with no tumor. <br>
 
 <img src="https://github.com/AM1CODES/HackOff---Brain-Tumor-Detection-Web-app/blob/main/Some%20Results/Tumor.png" alt="drawing"/>
+
+Link to the Dataset - https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
 
 
 # Goal and Idea
@@ -17,4 +22,9 @@ Upon landing on the page, the user is asked to input the image of the MRI scan. 
 
 # Performance and Results
 Upon testing it on the web, the model was able to give some decent results. We tried inputing various images of different types of tumors to test it. For some of the inputs, it was able to give the right result but there were instances where it failed to classify the right type of tumor. But it did classify those images correctly which had Tumor even though it wasn't accurate in telling which type of tumor it was. The model gave an accuracy of 97.5% on the training set and an accuracy of 94% on the validation set.
+
+<img src="https://github.com/AM1CODES/HackOff---Brain-Tumor-Detection-Web-app/blob/main/Some%20Results/Result-1.PNG" alt="drawing"/> <img src="https://github.com/AM1CODES/HackOff---Brain-Tumor-Detection-Web-app/blob/main/Some%20Results/Result-2.PNG" alt="drawing"/>
+
+
+
 

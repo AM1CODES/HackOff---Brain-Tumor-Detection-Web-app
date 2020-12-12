@@ -1,0 +1,224 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 16:09:01.598679: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 16:09:03.760550: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 16:09:03.838950: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 16:09:03.839015: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 16:09:03.865706: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 16:09:03.866069: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x18939c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 16:09:03.866113: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 16:10:07.316568: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 16:10:09.708909: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 16:10:09.723853: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 16:10:09.723943: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 16:10:09.736885: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 16:10:09.737275: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x22e59c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 16:10:09.737315: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 16:11:19.360304: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 16:11:21.014847: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 16:11:21.026535: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 16:11:21.026599: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 16:11:21.035000: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 16:11:21.035331: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x27919c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 16:11:21.035383: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 16:12:06.483841: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 16:12:08.042986: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 16:12:08.052907: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 16:12:08.052969: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 16:12:08.060327: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 16:12:08.060757: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x13899c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 16:12:08.060827: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 16:19:12.627747: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 16:19:14.203969: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 16:19:14.213974: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 16:19:14.214033: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 16:19:14.221728: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 16:19:14.222033: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x21779c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 16:19:14.222080: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 16:31:52.732498: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 16:31:54.337020: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 16:31:54.347316: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 16:31:54.347381: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 16:31:54.354184: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 16:31:54.354456: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x14759c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 16:31:54.354499: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 16:53:41.914753: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 16:53:43.501087: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 16:53:43.510930: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 16:53:43.510993: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 16:53:43.518298: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 16:53:43.518552: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x1bcd640 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 16:53:43.518593: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 17:06:40.720816: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 17:06:42.158567: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 17:06:42.168480: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 17:06:42.168538: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 17:06:42.175505: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 17:06:42.175761: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x307f9c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 17:06:42.175806: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 17:09:29.802564: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 17:09:31.428386: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 17:09:31.442544: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 17:09:31.442623: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 17:09:31.456519: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 17:09:31.456835: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x1a7f9c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 17:09:31.456866: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 17:13:26.491384: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 17:13:28.088516: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 17:13:28.100936: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 17:13:28.101007: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 17:13:28.108972: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 17:13:28.109292: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x14219c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 17:13:28.109347: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 17:23:49.923450: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 17:23:51.524756: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 17:23:51.534804: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 17:23:51.534863: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 17:23:51.542304: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 17:23:51.542555: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x1e339c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 17:23:51.542604: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 17:24:33.886888: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 17:24:35.412626: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 17:24:35.422572: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 17:24:35.422643: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 17:24:35.429379: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 17:24:35.429646: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x184d9c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 17:24:35.429690: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 17:28:41.699246: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 17:28:43.326938: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 17:28:43.336955: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 17:28:43.337016: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 17:28:43.343855: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 17:28:43.344116: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x2a759c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 17:28:43.344179: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 17:37:21.614900: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 17:37:23.124492: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 17:37:23.135187: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 17:37:23.135263: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 17:37:23.144104: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 17:37:23.144512: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x180b9c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 17:37:23.144563: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 18:05:21.294735: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 18:05:22.965503: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 18:05:22.975740: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 18:05:22.975817: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 18:05:22.983262: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 18:05:22.983528: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x15bf9c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 18:05:22.983573: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.2:8501
+  External URL: http://35.190.132.71:8501
+
+2020-12-11 18:28:34.049626: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcudart.so.10.1
+2020-12-11 18:28:35.669568: I tensorflow/stream_executor/platform/default/dso_loader.cc:48] Successfully opened dynamic library libcuda.so.1
+2020-12-11 18:28:35.679468: E tensorflow/stream_executor/cuda/cuda_driver.cc:314] failed call to cuInit: CUDA_ERROR_NO_DEVICE: no CUDA-capable device is detected
+2020-12-11 18:28:35.679524: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:156] kernel driver does not appear to be running on this host (a7700dd7da86): /proc/driver/nvidia/version does not exist
+2020-12-11 18:28:35.686686: I tensorflow/core/platform/profile_utils/cpu_utils.cc:104] CPU Frequency: 2300000000 Hz
+2020-12-11 18:28:35.686966: I tensorflow/compiler/xla/service/service.cc:168] XLA service 0x1ca79c0 initialized for platform Host (this does not guarantee that XLA will be used). Devices:
+2020-12-11 18:28:35.687004: I tensorflow/compiler/xla/service/service.cc:176]   StreamExecutor device (0): Host, Default Version
+  Stopping...
